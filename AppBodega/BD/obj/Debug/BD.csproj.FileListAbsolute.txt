@@ -1,0 +1,8 @@
+C:\Users\God__\source\repos\AppBodega\BD\bin\Debug\BD.dll
+C:\Users\God__\source\repos\AppBodega\BD\bin\Debug\BD.pdb
+C:\Users\God__\source\repos\AppBodega\BD\obj\Debug\BD.csprojAssemblyReference.cache
+C:\Users\God__\source\repos\AppBodega\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\God__\source\repos\AppBodega\BD\obj\Debug\BD.dll
+C:\Users\God__\source\repos\AppBodega\BD\obj\Debug\BD.pdb
+C:\Users\God__\source\repos\AppBodega\BD\bin\Debug\MaterialSkin.dll
+C:\Users\God__\source\repos\AppBodega\BD\obj\Debug\BD.csproj.CopyComplete
